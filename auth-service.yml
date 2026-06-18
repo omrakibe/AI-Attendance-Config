@@ -18,7 +18,7 @@ spring:
       mode: never
 
 server:
-  port: 0
+  port: 8081
 
 eureka:
   client:
